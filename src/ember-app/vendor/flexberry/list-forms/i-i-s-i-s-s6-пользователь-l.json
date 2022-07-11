@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-i-s-s6-пользователь-e",
+  "editForm": "i-i-s-i-s-s6-пользователь-e",
+  "external": false,
+  "caption": "Пользователь",
+  "name": "IISISS6ПользовательL",
+  "className": "ПользовательL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-s-s6-пользователь",
+      "modelProjection": "ПользовательL"
+    }
+  ]
+}

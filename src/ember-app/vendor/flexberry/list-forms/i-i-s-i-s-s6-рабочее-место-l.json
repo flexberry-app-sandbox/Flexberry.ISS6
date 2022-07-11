@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-i-s-s6-рабочее-место-e",
+  "editForm": "i-i-s-i-s-s6-рабочее-место-e",
+  "external": false,
+  "caption": "Рабочее место",
+  "name": "IISISS6РабочееМестоL",
+  "className": "РабочееМестоL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-i-s-s6-рабочее-место",
+      "modelProjection": "РабочееМестоL"
+    }
+  ]
+}

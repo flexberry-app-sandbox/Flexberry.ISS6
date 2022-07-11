@@ -1,0 +1,51 @@
+﻿{
+  "applicationCaption": "I s s6",
+  "applicationTitle": "I s s6",
+  "items": [
+    {
+      "link": null,
+      "menuName": "i-s-s6",
+      "caption": "ISS6",
+      "title": "ISS6",
+      "children": [
+        {
+          "link": "i-i-s-i-s-s6-пользователь-l",
+          "menuName": null,
+          "caption": "Пользователь",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s6-рабочее-место-l",
+          "menuName": null,
+          "caption": "Рабочее место",
+          "title": "",
+          "children": null
+        }
+      ]
+    },
+    {
+      "link": null,
+      "menuName": "справочники",
+      "caption": "Справочники",
+      "title": "Справочники",
+      "children": [
+        {
+          "link": "i-i-s-i-s-s6-пользователь-l",
+          "menuName": null,
+          "caption": "ПользовательL",
+          "title": "Пользователь",
+          "children": null
+        },
+        {
+          "link": "i-i-s-i-s-s6-рабочее-место-l",
+          "menuName": null,
+          "caption": "РабочееМестоL",
+          "title": "Рабочее место",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
